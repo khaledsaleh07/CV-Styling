@@ -167,6 +167,7 @@ section{
   }
   hgroup{
     width:100%;
+    display: block;
   }
   .content{
     padding-top:350px;
