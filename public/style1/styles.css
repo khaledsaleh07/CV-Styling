@@ -67,16 +67,36 @@ section{
   line-height: 1;
 }
 
-.skill[data-skill="1"] span{width:10%;}
-.skill[data-skill="2"] span{width:20%;}
-.skill[data-skill="3"] span{width:30%;}
-.skill[data-skill="4"] span{width:40%;}
-.skill[data-skill="5"] span{width:50%;}
-.skill[data-skill="6"] span{width:60%;}
-.skill[data-skill="7"] span{width:70%;}
-.skill[data-skill="8"] span{width:80%;}
-.skill[data-skill="9"] span{width:90%;}
-.skill[data-skill="10"] span{width:100%;}
+.skill[data-skill="1"] span{
+  width:10%;
+}
+.skill[data-skill="2"] span{
+  width:20%;
+}
+.skill[data-skill="3"] span{
+  width:30%;
+}
+.skill[data-skill="4"] span{
+  width:40%;
+}
+.skill[data-skill="5"] span{
+  width:50%;
+}
+.skill[data-skill="6"] span{
+  width:60%;
+}
+.skill[data-skill="7"] span{
+  width:70%;
+}
+.skill[data-skill="8"] span{
+  width:80%;
+}
+.skill[data-skill="9"] span{
+  width:90%;
+}
+.skill[data-skill="10"] span{
+  width:100%;
+}
 
 .skills-primary::before, .skills-secondary::before{
   margin-top:10px;
